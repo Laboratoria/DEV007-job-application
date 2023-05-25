@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>05.06</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -40,7 +40,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>06.06 y 13.06</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -59,22 +59,22 @@
             Taller: Historia de vida y habilidades transferibles.
           </a>
           <a href="https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_36">
-            (Pre-work)
-          </a>
-        </li>
+            (Pre-work) 
+          </a>  
+        </li> 06.06
         <li>
           <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0">
             Píldora: About me y pitch.
           </a>
         </li>
-        <li>Espacio grupal para compartir "about me" y dar y recibir feedback.</li>
+        <li>Espacio grupal para compartir "about me" y dar y recibir feedback.</li> 13.06
       </ul>
     </td>
-    <td>NA</td>
+	    <td>Pre-work del taller y primera versión del about me</td>
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Deadline: 27.06</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -82,8 +82,7 @@
         recibir feedback de profesionales de la industria.
       </p>
       <p>
-        Recuerda que también puedes autogestionar espacios de feedback con tus
-        peers y con el equipo de Laboratoria.
+        Recuerda que también puedes autogestionar espacios de feedback con tus peers y con el equipo de Laboratoria.
       </p>
     </td>
     <td>
@@ -125,7 +124,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>26.06 al 07.07</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -157,7 +156,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Por confirmar, semana 16</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -180,12 +179,10 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">03.07 al 07.07</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
-      <p>
-        Este espacio será programado por el equipo de Laboratoria.
-      </p>
+      <p> 
     </td>
     <td rowspan="2">
       <ul>
@@ -232,7 +229,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>10.07 al 14.07</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -251,7 +248,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>24.07 al 04.08</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -310,7 +307,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>08.08</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
@@ -328,7 +325,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>20.07 y 03.08 </td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -348,7 +345,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Deadline: 08.08</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -381,7 +378,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>31.07</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -405,7 +402,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>14.08 al 25.08</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -468,7 +465,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>31.08</td>
     <td>
       <b>Retrospectiva grupal de mentorías Tech</b>
       <p>
@@ -487,11 +484,11 @@
   </tr>
   <tr>
     <td><b>Project Feedback</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 28.08</td>
     <td>
       <b>Project Feedback:</b>
       <p>
-        Al finalizar el proyecto recibirás ya sea de forma asíncrona o síncrona 2 tipos de feedbacks, 1) RH, por BM y/o CDP 2)Tech, por un coach en la sesión de Bootcamp Feedback.
+        Al finalizar el proyecto recibirás ya sea de forma asíncrona o síncrona 2 tipos de feedbacks, 1) RH, por BM y/o CDP 2) Tech, por un coach en la sesión de Bootcamp Feedback.
       </p>
     </td>
     <td>

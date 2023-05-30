@@ -31,8 +31,9 @@ Las 3 sesiones que se contemplan en estas mentorías son:
   un listado de preguntas que quieras resolver. En el equipo nos aseguraremos de
   recordártelo, pero recuerda que alcanzar este objetivo de aprendizaje es tu
   responsabilidad.
-  * Sesión de revisión y feedback de CV + LinkedIn: Este espacio será
-    programado por el equipo de Laboratoria.
+  * Sesión de revisión y feedback de CV + LinkedIn: Este espacio debes coordinarlo
+    directamente con tu mentora/or y serás tu la responsable de establecer
+    este contacto.
   * Sesión de seguimiento a la incorporación del feeback: Este espacio debes coordinarlo
     directamente con tu mentora/or y serás tu la responsable de establecer
     este contacto.
